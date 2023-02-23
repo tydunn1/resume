@@ -8,3 +8,8 @@
 - [Whatcom Community College](https://www.whatcom.edu/)
 - [Bellingham Technical College](https://www.btc.edu/)
 - [Western Washington University](https://www.wwu.edu/)
+
+# Research Interests
+- Geomorphology
+- Hydrology
+- Data Science
